@@ -2,7 +2,7 @@
 
 List<Employee> employees = new();   // starts empty (0 records)
 int nextId = 1001;
-const string SystemTitle = "EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM";
+const string SystemTitle = "EPHRS - Main Branch Edition";
 
 while (true)
 {
